@@ -15,11 +15,11 @@
 <img width="6%" title="Selenide" src="Selenide.svg">
 <img width="6%" title="Selenoid" src="Selenoid.svg">
 <img width="6%" title="Allure Report" src="Allure.svg">
-<img width="5%" title="Allure TestOps" src="AllureTO.svg">
+<img width="5%" title="Allure TestOps" src="Allure_TO.svg">
 <img width="5%" title="Allure TestOps" src="Android_Studio.svg">
 <img width="5%" title="Allure TestOps" src="Browserstack.svg">
 <img width="6%" title="Gradle" src="Gradle.svg">
-<img width="6%" title="JUnit5" src="JUnit5.svg">
+<img width="6%" title="JUnit5" src="Junit5.svg">
 <img width="6%" title="GitHub" src="GitHub.svg">
 <img width="6%" title="Jenkins" src="Jenkins.svg">
 <img width="6%" title="Telegram" src="Telegram.svg">
