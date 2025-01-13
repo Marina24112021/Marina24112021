@@ -25,7 +25,6 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marina24112021&theme=blueberry)
-<img style="border-radius: 5px; width: 200px;" src="media/err.jpg" title="err">
 
 ### Дипломный проект 🎓
 
