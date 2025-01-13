@@ -10,19 +10,19 @@
 </p>
 
 <p align="center">
-<img width="6%" title="IntelliJ IDEA" src="media/Idea.svg">
-<img width="6%" title="Java" src="media/Java.svg">
-<img width="6%" title="Selenide" src="media/Selenide.svg">
-<img width="6%" title="Selenoid" src="media/Selenoid.svg">
-<img width="6%" title="Allure Report" src="media/Allure.svg">
-<img width="5%" title="Allure TestOps" src="media/AllureTO.svg">
-<img width="5%" title="Allure TestOps" src="media/Android_Studio.svg">
-<img width="5%" title="Allure TestOps" src="media/Browserstack.svg">
-<img width="6%" title="Gradle" src="media/Gradle.svg">
-<img width="6%" title="JUnit5" src="media/JUnit5.svg">
-<img width="6%" title="GitHub" src="media/GitHub.svg">
-<img width="6%" title="Jenkins" src="media/Jenkins.svg">
-<img width="6%" title="Telegram" src="media/Telegram.svg">
+<img width="6%" title="IntelliJ IDEA" src="Idea.svg">
+<img width="6%" title="Java" src="Java.svg">
+<img width="6%" title="Selenide" src="Selenide.svg">
+<img width="6%" title="Selenoid" src="Selenoid.svg">
+<img width="6%" title="Allure Report" src="Allure.svg">
+<img width="5%" title="Allure TestOps" src="AllureTO.svg">
+<img width="5%" title="Allure TestOps" src="Android_Studio.svg">
+<img width="5%" title="Allure TestOps" src="Browserstack.svg">
+<img width="6%" title="Gradle" src="Gradle.svg">
+<img width="6%" title="JUnit5" src="JUnit5.svg">
+<img width="6%" title="GitHub" src="GitHub.svg">
+<img width="6%" title="Jenkins" src="Jenkins.svg">
+<img width="6%" title="Telegram" src="Telegram.svg">
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marina24112021&theme=blueberry)
