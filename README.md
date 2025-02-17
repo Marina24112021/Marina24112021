@@ -10,6 +10,7 @@ I am an automation tester with a strong background in manual testing. After comp
 
 <h3>Tech Stack Used in the Project</h3>
 <p align="center">
+<img width="6%" title="GitHub" src="GitHub.svg">
 <img width="6%" title="IntelliJ IDEA" src="Idea.svg">
 <img width="6%" title="Java" src="Java.svg">
 <img width="6%" title="Selenide" src="Selenide.svg">
@@ -20,7 +21,6 @@ I am an automation tester with a strong background in manual testing. After comp
 <img width="5%" title="Allure TestOps" src="Browserstack.svg">
 <img width="6%" title="Gradle" src="Gradle.svg">
 <img width="6%" title="JUnit5" src="Junit5.svg">
-<img width="6%" title="GitHub" src="GitHub.svg">
 <img width="6%" title="Jenkins" src="Jenkins.svg">
 <img width="6%" title="Telegram" src="Telegram.svg">
 </p>
