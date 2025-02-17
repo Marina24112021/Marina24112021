@@ -8,6 +8,7 @@ I am an automation tester with a strong background in manual testing. After comp
     <a href="https://t.me/MarinaChen" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="telegram" src="" height="20"></a>
 </p>
 
+<h3>Tech Stack Used in the Project</h3>
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="Idea.svg">
 <img width="6%" title="Java" src="Java.svg">
